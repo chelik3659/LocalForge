@@ -1,24 +1,21 @@
-This is free and unencumbered software released into the public domain.
+Copyright (c) 2025 LocalForge. All Rights Reserved.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+1. Permissions:
+   - You may use the software for personal or commercial purposes.
+   - You may study and modify the source code for private use.
+   - You may redistribute unchanged copies of the original binaries, provided you retain all copyright notices and this license.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+2. Prohibitions:
+   - You must not alter, remove, or obscure the original donation link (https://pay.cloudtips.ru/p/c9294618) in any form.
+   - You must not distribute modified versions of the software under the name "LocalForge" without clearly documenting the changes and keeping a visible reference to the original project.
+   - You must not use the source code to create competing commercial products without explicit permission from the author.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+3. Attribution Requirement:
+   - Any redistribution (including modified versions) must include this license file and a visible link to the original project (e.g., GitHub repository).
 
-For more information, please refer to <https://unlicense.org>
+4. Disclaimer:
+   - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS SOFTWARE.
+
+5. Binary Distribution:
+   - Binary files (EXE, AppImage) shall not be distributed without proper attribution and a link to the original project.
+   - Distribution of binaries with an altered donation link is strictly forbidden.
